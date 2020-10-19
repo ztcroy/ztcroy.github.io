@@ -51,7 +51,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 
 
 // stage content:
-(lib.Leaffallingtween = function(mode,startPosition,loop) {
+(lib.Leaf_falling_tween = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Leaf 1
